@@ -1,0 +1,44 @@
+body{
+  background-color:aliceblue;
+}
+h3{
+  color: green;
+}
+p{
+  color: black;
+}
+ul{
+  color: #bbe1d3;
+}
+ol{
+  color: #95e1d3;
+}
+tr{
+  color: black;
+}
+label{
+  color: #adff2f;
+}
+.img1{
+  border-radius: 100%;
+  border-style: double;
+  border-color: skyblue;
+}
+.h1{
+  color: black;
+}
+a:hover{
+  color: skyblue;
+}
+a{
+  color: lightgreen;
+}
+.home{
+  margin-left: 95%;
+}
+.h3:hover{
+  color: skyblue;
+}
+.h3{
+  margin-left: 95%;
+}
